@@ -6,7 +6,7 @@
   </picture>
 </p>
 
-Full-stack software engineer building fast, reliable, local-first software — from native desktop utilities and offline Android apps to systems tooling and web applications. I care about clean architecture, lean dependencies, and software that stays out of your way.
+Full-stack software engineer and Computer Science student at **Algebra Bernays University** building fast, reliable, local-first software — from native desktop utilities and offline Android apps to systems tooling and web applications. Comfortable down to the OS and hardware layer: Arch Linux daily driver, self-hosted infrastructure, and local LLM experimentation.
 
 ---
 
@@ -16,17 +16,17 @@ Full-stack software engineer building fast, reliable, local-first software — f
   <tr>
     <td width="50%" valign="top">
       <strong>Systems &amp; Desktop</strong><br />
-      Native tooling, media pipelines, and cross-platform GUI/CLI utilities built with <strong>Rust</strong>, <strong>egui</strong>, and <strong>FFmpeg</strong>.
+      Native utilities, media pipelines, and cross-platform GUI/CLI apps built with <strong>Rust</strong>, <strong>C++</strong>, <strong>egui</strong>, and <strong>FFmpeg</strong>.
     </td>
     <td width="50%" valign="top">
-      <strong>Mobile (Android)</strong><br />
-      Offline-first Android apps designed around speed, privacy, and zero cloud lock-in using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
+      <strong>Mobile &amp; Full-Stack</strong><br />
+      Offline-first Android apps (<strong>Kotlin</strong>, <strong>Jetpack Compose</strong>) alongside backend tooling, <strong>SQL</strong>, <strong>Python</strong>, and web development.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Full-Stack &amp; Web</strong><br />
-      End-to-end applications, backend tooling, and automation built with <strong>Python</strong> and modern web technologies.
+      <strong>Local AI &amp; Linux</strong><br />
+      Running and benchmarking local LLMs (<strong>llama.cpp</strong>, <strong>vLLM</strong>) on AMD/NVIDIA hardware, <strong>Arch Linux</strong>, and <strong>systemd</strong> automation.
     </td>
     <td width="50%" valign="top">
       <strong>Modding, Graphics &amp; Games</strong><br />
@@ -55,9 +55,11 @@ Full-stack software engineer building fast, reliable, local-first software — f
 
 <p>
   <img src="https://img.shields.io/badge/Rust-161B22?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
+  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=60A5FA" alt="C++" />
   <img src="https://img.shields.io/badge/Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=A78BFA" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=FB923C" alt="Java" />
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=sqlite&logoColor=60A5FA" alt="SQL" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css&logoColor=38BDF8" alt="CSS3" />
@@ -68,15 +70,23 @@ Full-stack software engineer building fast, reliable, local-first software — f
 **Platforms & Tools**
 
 <p>
+  <img src="https://img.shields.io/badge/Arch_Linux-161B22?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Android-161B22?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-161B22?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose" />
   <img src="https://img.shields.io/badge/Gradle-161B22?style=for-the-badge&logo=gradle&logoColor=4DB6AC" alt="Gradle" />
   <img src="https://img.shields.io/badge/FFmpeg-161B22?style=for-the-badge&logo=ffmpeg&logoColor=4CAF50" alt="FFmpeg" />
   <img src="https://img.shields.io/badge/Godot-161B22?style=for-the-badge&logo=godotengine&logoColor=478CBF" alt="Godot" />
   <img src="https://img.shields.io/badge/OpenGL-161B22?style=for-the-badge&logo=opengl&logoColor=68B2E8" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/Tailscale-161B22?style=for-the-badge&logo=tailscale&logoColor=E2E8F0" alt="Tailscale" />
   <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
+
+---
+
+### Systems & Background
+
+- **Homelab & Local AI** — Self-hosted Arch Linux servers (`systemd`, IPv6, DNS, SSH, Tailscale, Oracle Cloud) and local model inference (`llama.cpp`, `vLLM`) on custom hardware, including an unlocked AMD BC-250 in a 3D-printed enclosure.
+- **Education & Certs** — Computer Science undergraduate at **Algebra Bernays University** (previously Computer Technician, 2021–2025) · **Fortinet NSE 1** certified.
 
 ---
 
